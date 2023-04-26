@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stefanmomcilovic
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning to Improve my self as a programmer
-- 💞️ I’m looking to collaborate on projects about web development 
-- 📫 How to reach me you can reach me through my email address: stefan.momcilovic@protonmail.com
+- 👀 I’m specialized in the eCommerce platform Shopify and in creating Saas web apps
+- 🌱 I'm constantly improving myself for my clients and trying to bring them the best results on the market
+- 💞️ I’m looking to collaborate on any projects that can be beneficial to market
+- 📫 How to reach me you can reach me through my email address: office@stefanmomcilovic.com
